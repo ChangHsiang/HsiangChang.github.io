@@ -2,7 +2,7 @@
 
 ------
 
- <img src=".\pic\IMG_1104.PNG" style="zoom:50%;" />
+ <img src=".\pic\IMG_0301" style="zoom:50%;" />
 
 ------
 
@@ -13,7 +13,8 @@
 # 笔记
 
 - [物理数学](.\notes\)
-- [理论力学](.\notes\TM.md)
+- [理论力学](.\notes\TM.pdf)
 - [电磁学](.\notes\)
 - [热力学与统计物理](.\notes\)
 - [量子力学](.\notes\)
+
