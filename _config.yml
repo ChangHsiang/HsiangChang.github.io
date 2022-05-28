@@ -1,8 +1,11 @@
-# Site
+
 title: ''
 subtitle: ''
-description: ''
-keywords:
+description: 张祥
+keywords: 张祥
 author: 张祥
 language: zh-cn
 timezone: ''
+url: https://changhsiang.github.io/HsiangChang.github.io/
+pretty_urls:
+  trailing_index: false
