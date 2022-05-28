@@ -2,7 +2,7 @@
 
 ------
 
-<img src="..\pic\1.jpg" style="zoom:10%;" />
+![<img src="" style="zoom:10%;" />](..\pic\1.jpg)
 
 ------
 
