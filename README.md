@@ -2,7 +2,7 @@
 
 ------
 
-## <img src="/pic/20190808_091936765_iOS.jpg" style="zoom:10%;" />
+## <img src="/pic/20190808_091936765_iOS.jpg" width="10%">
 
 ------
 
