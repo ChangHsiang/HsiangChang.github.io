@@ -2,7 +2,7 @@
 
 ------
 
- <img src=".\pic\IMG_0301" style="zoom:50%;" />
+ <img src=".\pic\IMG_0301.JPG" style="zoom:50%;" />
 
 ------
 
