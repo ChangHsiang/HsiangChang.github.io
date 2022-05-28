@@ -2,7 +2,7 @@
 
 ------
 
- ![](..\pic\1.jpg)
+ <img src="\pic\1.jpg" style="zoom:25%;" />
 
 ------
 
