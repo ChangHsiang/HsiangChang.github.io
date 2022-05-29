@@ -3,7 +3,7 @@
 
 ------
 
-[主页](\index.html)&ensp; 笔记&ensp; 画廊&ensp; 
+[主页](index.md)&ensp; 笔记&ensp; 画廊&ensp; 
 ------
 
 
