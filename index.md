@@ -3,8 +3,9 @@
 
 ------
 
-<font color="steelblue">[主页](index.md)&ensp; [笔记]()&ensp; [画廊]()&ensp; </font>
-======
+# [<font color="steelblue">主页</font>](index.md)&emsp; [<font color="steelblue">笔记</font>]()&emsp; [<font color="steelblue">画廊</font>]()&emsp; 
+
+------
 
 #  <img src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
 
