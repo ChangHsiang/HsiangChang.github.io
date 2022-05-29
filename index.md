@@ -8,6 +8,12 @@
 ------
 
 #  <img src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
+<img src = ".\pic\IMG_0301.JPG", width = 100px height = 100px style = "float:left"/>
+
+<div style = "float:left">
+  <font size = "1"><br/></font><font size = "5" face = "Times New Roman">&ensp;
+University of Science and Technology of China, Hefei, China<br/></font> 
+<font size = "4.5">&ensp;&ensp;August 2014 - July 2019<br/>&ensp;&ensp;B.S. in Applied Physics</font></div>
 
 # **科学逻辑的四大原则**
 
