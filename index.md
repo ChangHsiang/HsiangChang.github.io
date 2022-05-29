@@ -3,13 +3,12 @@
 
 ------
 
-[主页](index.md)&ensp; 笔记&ensp; 画廊&ensp; 
-------
+<font color="steelblue">[主页](index.md)&ensp; [笔记]()&ensp; [画廊]()&ensp; </font>
+======
 
+#  <img src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
 
- <img src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
-
-## **科学逻辑的四大原则**
+# **科学逻辑的四大原则**
 
 **I.**    求自然事物之原因时,除了真的及解释现象上必不可少的以外,不当再增加其他.
 
