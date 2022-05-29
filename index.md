@@ -33,7 +33,7 @@ Bilibili: &emsp; bili_97596636339
 
 ------
 
-# 笔记
+# <font color="steelblue">笔记</font>
 
 - [物理数学](.\notes\)
 - [理论力学](.\notes\TM.pdf)
