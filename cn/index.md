@@ -1,13 +1,13 @@
 
-# <img src=".\pic\IMG_1109.PNG" style="zoom:20%;" /><font style="font-size:42px">张 祥 (Hsiang Chang) Home Page</font>
+# <img src="..\pic\IMG_1109.PNG" style="zoom:20%;" /><font style="font-size:42px">张 祥 (Hsiang Chang) Home Page</font>
 
 ------
 
-[主页](\index.html)&ensp; 笔记&ensp; 画廊&ensp; 
+主页&ensp; 笔记&ensp; 画廊&ensp; 
 ------
 
 
- <img src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
+ <img src="..\pic\IMG_0301.JPG" style="zoom:89%;" />
 
 ## **科学逻辑的四大原则**
 
