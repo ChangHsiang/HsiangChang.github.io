@@ -2,12 +2,18 @@
 # <img src=".\pic\IMG_1109.PNG" style="zoom:20%;" /><font style="font-size:42px">张 祥 (Hsiang Chang) Home Page</font>
 
 ------
+ <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=90 src="//music.163.com/outchain/player?type=2&id=1474411443&auto=1&height=66"></iframe>
+
+------
+
 
 # [<font color="steelblue">主页</font>](index.md)&emsp; [<font color="steelblue">笔记</font>]()&emsp; [<font color="steelblue">画廊</font>]()&emsp; 
 
 ------
 
-#  <img src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
+<div align=center>
+<img  src=".\pic\IMG_0301.JPG" style="zoom:80%;" />
+</div>
 
 ------
 
@@ -23,9 +29,6 @@
 
 
 ------
-
- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1474411443&auto=1&height=66"></iframe>
-
 
 
 Bilibili:       bili_97596636339
