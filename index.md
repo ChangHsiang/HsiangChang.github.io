@@ -43,18 +43,6 @@ Bilibili: &emsp; bili_97596636339
 
 
 
-[cn\_posts-sj](.\cn\_posts\2022-5-29-notes.md)
-
-[cn\_posts](.\cn\_posts\notes.md)
-
-[cn-sj](./cn/2022-5-29-notes.md)
-
-[cn](./cn/notes.md)
-
-[_posts-sj](./_posts/2022-5-29-notes.md)
-
-[_posts](./_posts/notes.md)
-
 
 
 **“Hypotheses non fingo” – Issac Newton**
