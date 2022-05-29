@@ -3,6 +3,10 @@
 
 ------
 
+主页&ensp; 笔记&ensp; 画廊&ensp; 
+------
+
+
  <img src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
 
 ## **科学逻辑的四大原则**
