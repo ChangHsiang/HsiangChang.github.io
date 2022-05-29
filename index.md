@@ -7,7 +7,7 @@
 
 ------
 
-<img  src=".\pic\IMG_0301.JPG" style="zoom:80%;" />
+<img  src=".\pic\IMG_0301.JPG" style="zoom:89%;" />
 
 
 ------
