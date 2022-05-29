@@ -3,7 +3,7 @@
 
 ------
 
-# [<font color="steelblue">主页</font>](index.md)&emsp; [<font color="steelblue">笔记</font>](.\cn\notes.md)&emsp; [<font color="steelblue">画廊</font>]()&emsp; 
+# [<font color="steelblue">主页</font>](index.md)&emsp; [<font color="steelblue">笔记</font>](.\cn\notes.html)&emsp; [<font color="steelblue">画廊</font>]()&emsp; 
 
 ------
 
